@@ -1,5 +1,15 @@
-### Hi there 
+### みなさん、はじめまして😀
+初心者プログラマーで、学びながら積極的にコーディングスキルを伸ばしています。
+親しみやすく、協力的なコミュニティの一員になりたいと思っています。
+基本的な知識しかないですが、Web開発に魅力を感じています。どうぞよろしくお願いします🌞
 
+- 🌱 現在学んでいることは...HTML,CSS,PHPなどです
+
+## Nice to meet you all 😀
+
+I'm a novice programmer and am actively expanding my coding skills as I learn. We want to be part of a friendly and supportive community.Although I only have basic knowledge, I am fascinated by web development. Thank you🌞
+
+- 🌱 I’m currently learning ...HTML,CSS,PHP
 <!--
 **TakahashiNatsumi814/TakahashiNatsumi814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
